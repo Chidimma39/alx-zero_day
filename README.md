@@ -1,1 +1,1 @@
-my first readme
+Code is gradually making sense
